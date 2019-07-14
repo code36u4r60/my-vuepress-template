@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "my-vuepress-template",
+  "dependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0",
+    "vuepress-plugin-mathjax": "^1.2.8"
+  }
+}
